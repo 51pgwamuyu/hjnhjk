@@ -14,7 +14,7 @@ npm install
 
 ```
 
-then navigate to .env located on root and add your api key from [together ai](https://www.together.ai/).
+then navigate to .env located on root and add your api key from [together ai](https://www.together.ai/)
 
 
 run 
